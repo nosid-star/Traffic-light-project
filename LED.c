@@ -1,9 +1,4 @@
-/*
- * LED.c
- *
- * Created: 5/10/2024 4:34:35 PM
- *  Author: Ahmed Ragab
- */ 
+
 
 #include "LED.h"
 #include "DIO.h"
