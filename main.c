@@ -1,9 +1,4 @@
-/*
- * Traffic_light.c
- *
- * Created: 8/18/2024 9:41:33 PM
- * Author : Ahmed Ragab
- */ 
+
 
 #include <avr/io.h>
 #include "macro_function.h"
