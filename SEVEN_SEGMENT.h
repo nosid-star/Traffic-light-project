@@ -1,9 +1,4 @@
-/*
- * SEVEN_SEGMENT.h
- *
- * Created: 6/30/2024 10:02:10 PM
- *  Author: Ahmed Ragab
- */ 
+
 
 
 #ifndef SEVEN_SEGMENT_H_
