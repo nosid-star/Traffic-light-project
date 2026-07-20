@@ -1,9 +1,4 @@
-/*
- * LED.h
- *
- * Created: 5/10/2024 4:34:52 PM
- *  Author: Ahmed Ragab
- */ 
+
 
 
 #ifndef LED_H_
