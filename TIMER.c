@@ -1,9 +1,4 @@
-/*
- * TIMER.c
- *
- * Created: 8/14/2024 4:07:42 PM
- *  Author: Ahmed Ragab
- */ 
+
 
 #include "TIMER.h"
 
