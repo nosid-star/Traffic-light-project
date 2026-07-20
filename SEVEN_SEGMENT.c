@@ -1,9 +1,4 @@
-/*
- * SEVEN_SEGMENT.c
- *
- * Created: 6/30/2024 10:01:44 PM
- *  Author: Ahmed Ragab
- */ 
+
 
 #include "SEVEN_SEGMENT.h"
 
